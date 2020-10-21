@@ -1,0 +1,13 @@
+Package: divDat
+Type: Package
+Title: Package to bundle analysis regions for convenient, consistent access
+Version: 0.1.0
+Author: KM
+Maintainer: KM <kira.mcd.99@gmail.com>
+Description: Holds 2015 counties, 1990 commuting zones, and 2019 cbsas.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
