@@ -15,3 +15,5 @@ Currently contains:
 ## To generate
 The data is too large to download and install from github, but most layers are generated just from the tigris library. 
 Scripts in the data-raw folder can generate for these ones.
+
+This is foremost a convenience library; may upload a .zip somewhere with built package at some point.
